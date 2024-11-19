@@ -1,4 +1,4 @@
-#My Personal Project
+# My Personal Project
 A modern and minimalistic project that showcases my skills and serves as a personal portfolio or blog.
 
 Project Purpose
