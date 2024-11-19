@@ -18,3 +18,21 @@ Tech Stack
 Frontend: HTML, CSS (or Tailwind CSS), JavaScript, React.
 Backend (if needed): Node.js, Express.
 Database: Firebase or MongoDB (optional).
+
+
+## Files Overview
+one.js
+This file contains:
+
+An array named arr with some numerical values.
+A for loop below the array that iterates through it and prints each element to the console.
+two.js
+This file contains:
+
+An array named arr with some numerical values.
+A for loop below the array that iterates through it and prints each element to the console.
+three.js
+This file contains:
+
+An array named arr with some numerical values.
+A for loop below the array that iterates through it and prints each element to the console.
